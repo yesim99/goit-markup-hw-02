@@ -10,6 +10,7 @@ body {
   font-weight: bold;
   font-size: 56px;
   line-height: 60px;
+  color: white;
 }
 .button {
   font-weight: 500;
@@ -18,7 +19,8 @@ body {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.button:hover{color: #444bbf;
+.button:hover {
+  background-color: #444bbf;
 }
 
 .link {
@@ -35,4 +37,19 @@ body {
 .page-nav .link:active {
   text-decoration: underline;
   color: #4d5ae5;
+}
+.page-title3 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2e2f42;
+}
+.small-text {
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 4%;
+}
+.page-title2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #2e2f42;
 }

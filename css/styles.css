@@ -52,7 +52,7 @@ body {
   font-weight: 500;
   font-size: 20px;
   color: #2e2f42;
-  line-height: 0.83;
+  line-height: 1.2;
 
 }
 .small-text {
@@ -64,20 +64,37 @@ body {
   font-size: 36px;
   font-weight: bold;
   color: #2e2f42;
-  line-height: 0.9;
+  line-height: 1.1;
 }
-
-
-.logo {
+.logoweb {
   font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 3%;
-  color: #f4f4fd;
-  text-decoration: none;
-
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 3%;
+    color: #4d5ae5;
+    text-decoration: none;
 }
+.logostudio1 {
+  font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 3%;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+.logostudio {
+  font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 3%;
+    color: #f4f4fd;
+    text-decoration: none;  
+}
+
 .address .link {color: #434455;
   text-decoration: none;}
 

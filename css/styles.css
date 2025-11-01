@@ -33,6 +33,7 @@ body {
 .page-nav {
   text-decoration: none;
   list-style-type: none;
+  font-size: 16px;
 }
 .page-nav .link:hover {
   color: #4d5ae5;}
@@ -97,7 +98,9 @@ body {
 
 .address .link {color: #434455;
   text-decoration: none;}
-
+.address {
+font-size: 16px;
+}
 
 
 
